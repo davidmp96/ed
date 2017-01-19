@@ -1,10 +1,16 @@
 package org.institutoserpis.ed;
 
+import java.util.*;
+
 public class Vector {
 
 	public static void main(String[] args) {
 		int index = indexOf(new int[] {32, 15, 7, 9, 12}, 99);
 		System.out.println("Vector index=" + index);
+	}
+	
+	public static int binarySearch(int[]v, int data) {
+		return -1;
 	}
 	
 	public static int indexOf(int[]v, int data) {
