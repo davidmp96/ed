@@ -14,7 +14,7 @@
     <property name="WindowPosition">CenterOnParent</property>
     <signal name="DeleteEvent" handler="OnDeleteEvent" />
     <child>
-      <widget class="Gtk.VBox" id="vbox1">
+      <widget class="Gtk.VBox" id="vBoxMain">
         <property name="MemberName" />
         <property name="Spacing">6</property>
         <child>
@@ -37,9 +37,10 @@
               <widget class="Gtk.Button" id="buttonGoForward">
                 <property name="MemberName" />
                 <property name="CanFocus">True</property>
-                <property name="Type">TextOnly</property>
-                <property name="Label" translatable="yes">Adelante</property>
-                <property name="UseUnderline">True</property>
+                <property name="UseStock">True</property>
+                <property name="Type">StockItem</property>
+                <property name="StockId">gtk-ok</property>
+                <property name="label">gtk-ok</property>
               </widget>
               <packing>
                 <property name="Position">1</property>
