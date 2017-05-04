@@ -6,3 +6,7 @@ Instalados en ubuntu 14.04:
  monodoc-browser
  monodoc-gtk2.0-manual
  monodoc-nunit-manual
+20170223 davidmuñoz
+Instalados para android studio:
+ libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 lib32bz2-1.0
+ qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
