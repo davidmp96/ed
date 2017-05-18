@@ -12,7 +12,7 @@ public class CalculaTuMedia {
 		    int notafinal = 0;
 		    Scanner tecla = new Scanner(System.in);
 		  		    
-		System.out.println("PROGRAMA ---CALCULA TU MEDIA EN ENTORNOS DE DESARROLLO---");    
+		System.out.println("PROGRAMAgid ---CALCULA TU MEDIA EN ENTORNOS DE DESARROLLO---");    
 		System.out.println("Introduce tu nota de la 1ª Ev.");
 		nota1 = tecla.nextFloat();
 		

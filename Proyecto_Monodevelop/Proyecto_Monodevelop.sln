@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Monodevelop", "Proyecto_Monodevelop\Proyecto_Monodevelop.csproj", "{B2F0B864-2260-42D4-8219-8C34CBC0059E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F0B864-2260-42D4-8219-8C34CBC0059E}.Debug|x86.ActiveCfg = Debug|x86
+		{B2F0B864-2260-42D4-8219-8C34CBC0059E}.Debug|x86.Build.0 = Debug|x86
+		{B2F0B864-2260-42D4-8219-8C34CBC0059E}.Release|x86.ActiveCfg = Release|x86
+		{B2F0B864-2260-42D4-8219-8C34CBC0059E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Proyecto_Monodevelop\Proyecto_Monodevelop.csproj
+	EndGlobalSection
+EndGlobal
